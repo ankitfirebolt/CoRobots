@@ -1,21 +1,3 @@
-"""------------------------------------------------------------------------------------------
-Bayesian Affect Control Theory
-Main classes and functions for POMCP (see below)
-Author: Jesse Hoey  jhoey@cs.uwaterloo.ca   http://www.cs.uwaterloo.ca/~jhoey
-December 2013
-Use for research purposes only.
-Please do not re-distribute without written permission from the author
-Any commerical uses strictly forbidden.
-Code is provided without any guarantees.
-Research sponsored by the Natural Sciences and Engineering Council of Canada (NSERC).
-use python2.6
-see README for details
-
-POMCP algorithm (generic) for problems with continuous state, observation and actions
-but with an oracle for the actions: a probability distribution that gives high probability for the optimal action, 
-amongst others.  
-
-----------------------------------------------------------------------------------------------------------------------"""
 import math
 import sys
 import re
