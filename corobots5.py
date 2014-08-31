@@ -1,15 +1,3 @@
-"""------------------------------------------------------------------------------------------
-Bayesian Affect Control Theory
-Cooperative Robots test file 5
-Author: Jesse Hoey  jhoey@cs.uwaterloo.ca   http://www.cs.uwaterloo.ca/~jhoey
-December 2013
-Use for research purposes only.
-Please do not re-distribute without written permission from the author
-Any commerical uses strictly forbidden.
-Code is provided without any guarantees.
-Research sponsored by the Natural Sciences and Engineering Council of Canada (NSERC).
-see README for details
-----------------------------------------------------------------------------------------------"""
 from pomcp import *
 from plotter import *
 
